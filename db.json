@@ -1,0 +1,25 @@
+{
+  "student": [
+    {
+      "id": "c46c",
+      "img": "https://avatars.githubusercontent.com/u/156924642?v=4",
+      "name": "dhruvik",
+      "grid": "3333",
+      "course": "Computer Science"
+    },
+    {
+      "id": "656d",
+      "img": "https://content.jdmagicbox.com/comp/def_content_category/havmor-ice-cream-parlours/screenshot-3-havmor-ice-cream-parlours-3-2g1n3.jpg",
+      "name": "Jon Stewart Doe",
+      "grid": "3222",
+      "course": "Front-End"
+    },
+    {
+      "id": "9989",
+      "img": "https://avatars.githubusercontent.com/u/156924642?v=4",
+      "name": "D",
+      "grid": "5553428400",
+      "course": "Back-End"
+    }
+  ]
+}
